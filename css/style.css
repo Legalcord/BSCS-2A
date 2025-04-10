@@ -1,0 +1,9 @@
+body{
+    background-color: pink;
+}
+
+.container{
+    background-color: white;
+    height: 50px;
+    width: 200px;
+}
